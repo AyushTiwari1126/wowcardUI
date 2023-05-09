@@ -1,0 +1,56 @@
+[
+    {
+        "title": "System Setup",
+        "icon": "bi-gear-fill",
+        "childrens": [
+            {
+                "title": "Card Product Setup",
+                "path": "/card-product-setup"
+            },
+            {
+                "title": "Card Product Rules",
+                "path": "/card-product-rules"
+            },
+            {
+                "title": "Credit Scoring",
+                "path":"/credit-scoring"
+            }
+        ]
+    },
+    {
+        "title": "User Management",
+        "icon": "bi-info-circle-fill",
+        "childrens": [
+            {
+                "title": "Credit Limit Profile",
+                "path": "/credit-limit-profile"
+            },
+            {
+                "title": "Customer Group Fee",
+                "path": "/customer-group-fee"
+            },
+            {
+                "title": "Product Transactions",
+                "path": "/product-transactions"
+            }
+        ]
+    },
+    {
+        "title": "Cards Management",
+        "icon": "bi bi-wallet2",
+        "childrens": [
+            {
+                "title": "Card Production",
+                "path": "/card-production"
+            },
+            {
+                "title": "Prepaid Cards",
+                "path": "/prepaid-cards"
+            },
+            {
+                "title": "Loyalty Cards",
+                "path": "/loyalty-cards"
+            }
+        ]
+    }
+]

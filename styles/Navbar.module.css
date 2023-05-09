@@ -1,0 +1,38 @@
+.formbody{
+    min-width: 100vw;
+    display: block;
+}
+.navbar{
+    min-width: 100vw;
+    box-shadow: 0px 0px 0px 1px rgb(181, 178, 178);
+}
+.navbar ul{
+    text-align: center;
+    display: flex;
+    list-style: none;
+    justify-content: flex-start;
+    height: 50px;
+    margin-bottom: 0px;
+}
+
+.navbar ul li{
+    margin: 5px 10px;
+    padding: 5px 20px;
+}
+
+.details{
+    min-width: 100vw;
+    box-shadow: 0px 0.5px 0px 1px rgb(181, 178, 178);
+}
+
+.details ul{
+    text-align: center;
+    display: flex;
+    list-style: none;
+    justify-content: flex-start;
+    height: 50px;
+}
+
+.details ul li{
+    margin: 15px 70px;
+}
